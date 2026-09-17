@@ -3,7 +3,7 @@ Hey there! I'm Robin Rukhaya 👋
 
 👨‍💻 About Me
 
-🎓 B.Tech CSE Student at IILM University, Greater Noida (2nd Year)
+🎓 B.Tech CSE Student at IILM University, Greater Noida (3rd Year)
 💻 Aspiring Software Development Engineer (SDE)
 🧠 Currently mastering DSA with C++ via Striver's A2Z Sheet
 🛠️ Building real-world projects to sharpen my skills
